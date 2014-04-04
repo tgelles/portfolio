@@ -6,7 +6,7 @@
 	   <div class="col-sm-4 col-xs-6">
       
         <div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://idies.jhu.edu/" title="IDIES"><img src="//placehold.it/600x400/444/F8F8F8" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://idies.jhu.edu/" title="IDIES"><img src="images/idies.png" class="img-responsive"></a></div>
           <div class="panel-body">
             <p>The Institute for Data Intensive Engineering and Science</p>
   <dl>
@@ -26,7 +26,7 @@
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://www.centerstage.org/" title="CENTERSTAGE"><img src="//placehold.it/600x400/454545/FFF" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://www.centerstage.org/" title="CENTERSTAGE"><img src="images/cs.png" class="img-responsive"></a></div>
           <div class="panel-body">
               <p>CENTERSTAGE Theater</p>
   <dl>
@@ -46,7 +46,7 @@
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://myamerica.centerstage.org/" title="My America"><img src="//placehold.it/600x400/555/F2F2F2" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://myamerica.centerstage.org/" title="My America"><img src="images/myamerica.png" class="img-responsive"></a></div>
           <div class="panel-body">
              <p>My America Project</p>
   <dl>
@@ -67,7 +67,7 @@
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://cargocollective.com/centerstage50" title="CENTERSTAGE 50th"><img src="//placehold.it/600x400/555/FFF" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://cargocollective.com/centerstage50" title="CENTERSTAGE 50th"><img src="images/fifty.png" class="img-responsive"></a></div>
           <div class="panel-body">
                 <p>50th Anniversary Website</p>
   <dl>
@@ -88,9 +88,9 @@
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://m.centerstage.org/" title="CENTERSTAGE Mobile"><img src="//placehold.it/600x400/555/EEE" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://m.centerstage.org/" title="CENTERSTAGE Mobile"><img src="images/mobile.png" class="img-responsive"></a></div>
           <div class="panel-body">
-               <p>50th Anniversary Website</p>
+               <p>CENTERSTAGE Mobile Site</p>
   <dl>
   <dt>Overview</dt>
   <dd>Mobile Platform for CENTERSTAGE Theater</dd>
@@ -109,7 +109,7 @@
       <div class="col-sm-4 col-xs-6">
       
       	<div class="panel panel-default">
-          <div class="panel-thumbnail"><a href="http://web.archive.org/web/20110831044334/http://nadiv.org/" title="Churches"><img src="//placehold.it/600x400/666/F4F4F4" class="img-responsive"></a></div>
+          <div class="panel-thumbnail"><a href="http://web.archive.org/web/20110831044334/http://nadiv.org/" title="NADIV"><img src="images/nadiv.png" class="img-responsive"></a></div>
           <div class="panel-body">
             <p>50th Anniversary Website</p>
   <dl>
