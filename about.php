@@ -1,4 +1,4 @@
-<div class="divider" id="section1"></div>
+<div class="divider" id="About"></div>
   
 <div class="container">
   <div class="col-sm-10 col-sm-offset-1">

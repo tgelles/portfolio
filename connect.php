@@ -1,4 +1,4 @@
-<div class="divider" id="section4"></div>
+<div class="divider" id="Connect"></div>
   
   <hr>
   

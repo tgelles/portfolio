@@ -3,6 +3,7 @@
 <script type='text/javascript' src="http://maps.googleapis.com/maps/api/js?sensor=false&extension=.js&output=embed"></script>-->
 <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
+    <script src="_/js/jquery.appear.js"></script>
 
 
         
